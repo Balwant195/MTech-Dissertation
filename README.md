@@ -30,7 +30,6 @@ Sentiment analysis of code-mixed languages, where Hindi and English are blended,
 
 - `report/`: Contains a detailed report.
 - `data/`: Includes datasets used in the study (Hinglish, Spanish-English, Marathi-English).
-- `results/`: Summary of performance metrics, including accuracy and loss tables, and loss vs. epoch figures.
 - `scripts/`: Code for training models and generating performance metrics.
 
 ## Future Work

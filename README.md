@@ -32,11 +32,6 @@ Sentiment analysis of code-mixed languages, where Hindi and English are blended,
 - `data/`: Includes datasets used in the study (Hinglish, Spanish-English, Marathi-English).
 - `scripts/`: Code for training models and generating performance metrics.
 
-## Future Work
-
-- Apply transfer learning techniques, training on resource-rich languages like English, and then evaluating on less resourceful languages.
-- Investigate the impact of varying degrees of code-mixing and other linguistic features on model performance.
-
 ## References
 
 - [XLM-RoBERTa: A Pre-trained Cross-Lingual Model](https://arxiv.org/abs/1911.02116)
